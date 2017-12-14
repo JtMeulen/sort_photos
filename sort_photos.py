@@ -8,7 +8,7 @@ script, src = argv
 src_files = os.listdir(src)
 
 for file_name in src_files:
-    if file_name.endswith('.JPG'):
+    if file_name.endswith('.JPG') or file_name.endswith('.jpg'):
         fullname = os.path.join(src, file_name)
 
 # find the creation date of the file. Set it to new_date
