@@ -1,7 +1,8 @@
 # sort_photos
-Script to sort photos per day in a folder
 
-Python script to sort .JPG photos in a selected folder.
+Python script to sort .JPG photos and puts the photos in a day to day folder.
+
+MAKE SURE YOU BACKUP YOUR PHOTOS FIRST!
 
 To run first make sure you have Python(2) installed. If not you can download it here.
 https://www.python.org/downloads/release/python-2713/
